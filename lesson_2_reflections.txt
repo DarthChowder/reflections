@@ -13,3 +13,7 @@ You chave many options for viewing what changes you have made and what is being 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 If you are testing new features, experimenting on a project, or developing features that are not inline with the main development track branches are userful.
+
+How do the diagrams help you visualize the branch structure?
+
+They let you visually map the struture of your Git commit and any branches off the Master line.
