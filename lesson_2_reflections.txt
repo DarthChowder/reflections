@@ -17,3 +17,7 @@ If you are testing new features, experimenting on a project, or developing featu
 How do the diagrams help you visualize the branch structure?
 
 They let you visually map the struture of your Git commit and any branches off the Master line.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The merge will join two different branches together. The changes that were present would be joined into the target branch.
