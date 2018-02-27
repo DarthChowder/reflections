@@ -21,3 +21,7 @@ They let you visually map the struture of your Git commit and any branches off t
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 The merge will join two different branches together. The changes that were present would be joined into the target branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+The automerge can identify and conflicts which make it easier to merge the changes without cauising more issues. It notes within the code where the changes took place. I don't know of any cons, although I am sure there are some.
